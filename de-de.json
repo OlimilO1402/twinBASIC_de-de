@@ -1,0 +1,2134 @@
+[
+  {
+    "filepath": "/ide/main.htm",
+    "filetext": [
+      {
+        "searchfrom": ">File<",
+        "replaceto":  ">Datei<"
+      },
+      {
+        "searchfrom": ">Edit<",
+        "replaceto":  ">Bearbeiten<"
+      },
+      {
+        "searchfrom": ">View<",
+        "replaceto":  ">Ansicht<"
+      },
+      {
+        "searchfrom": ">Project<",
+        "replaceto":  ">Projekt<"
+      },
+      {
+        "searchfrom": ">Format<",
+        "replaceto":  ">Format<"
+      },
+      {
+        "searchfrom": ">Debug<",
+        "replaceto":  ">Debuggen<"
+      },
+      {
+        "searchfrom": ">Run<",
+        "replaceto":  ">Ausführen<"
+      },
+      {
+        "searchfrom": ">Tools<",
+        "replaceto":  ">Extras<"
+      },
+      {
+        "searchfrom": ">Add-Ins<",
+        "replaceto":  ">Add-Ins<"
+      },
+      {
+        "searchfrom": ">Window<",
+        "replaceto":  ">Fenster<"
+      },
+      {
+        "searchfrom": ">Help<",
+        "replaceto":  ">Hilfe<"
+      },
+      {
+        "searchfrom": ">DEVTOOLS<",
+        "replaceto":  ">DEVTOOLS<"
+      },
+      {
+        "searchfrom": "The IDE is running in elevated mode",
+        "replaceto":  "The IDE is running in elevated mode"
+      },
+      {
+        "searchfrom": "Minimize Window",
+        "replaceto":  "Minimieren"
+      },
+      {
+        "searchfrom": "Maximize/Restore Window",
+        "replaceto":  "Maximieren"
+      },
+      {
+        "searchfrom": "Close twinBASIC",
+        "replaceto":  "Schließen"
+      },
+      {
+        "searchfrom": ">FULL SCREEN<",
+        "replaceto":  ">Vollbildmodus<"
+      },
+      {
+        "searchfrom": "Exit Full Screen (F4)",
+        "replaceto":  "Vollbildmodus beenden (F4)"
+      },
+      {
+        "searchfrom": "Save All Changes",
+        "replaceto":  "Alle Änderungen speichern"
+      },
+      {
+        "searchfrom": "Find In Files (SHIFT+CTRL+F)",
+        "replaceto":  "In Dateien suchen (SHIFT+CTRL+F)"
+      },
+      {
+        "searchfrom": "Switch Between Form And Code",
+        "replaceto":  "Zwischen Form und Code umschalten"
+      },
+      {
+        "searchfrom": "Undo (CTRL+Z)",
+        "replaceto":  "Rückgängig (CTRL+Z)"
+      },
+      {
+        "searchfrom": "Redo (CTRL+Y)",
+        "replaceto":  "Wiederherstellen (CTRL+Y)"
+      },
+      {
+        "searchfrom": "Comment Selection (CTRL+K)",
+        "replaceto":  "Block auskommentieren (CTRL+K)"
+      },
+      {
+        "searchfrom": "Uncomment Selection (CTRL+SHIFT+K)",
+        "replaceto":  "Auskommentierung des Blocks aufheben (CTRL+SHIFT+K)"
+      },
+      {
+        "searchfrom": "Indent Block (TAB)",
+        "replaceto":  "Einzug vergrößern (TAB)"
+      },
+      {
+        "searchfrom": "Outdent Block (SHIFT+TAB)",
+        "replaceto":  "Einzug verkleinern (SHIFT+TAB)"
+      },
+      {
+        "searchfrom": "Show Inline Parameter Hints",
+        "replaceto":  "Parameterinfo "
+      },
+      {
+        "searchfrom": "Start / Continue (F5)",
+        "replaceto":  "Starten / Weiter (F5)"
+      },
+      {
+        "searchfrom": "Break Into Code (Ctrl+Break)",
+        "replaceto":  "Unterbrechen (Ctrl+Break)"
+      },
+      {
+        "searchfrom": "Stop",
+        "replaceto":  "Beenden"
+      },
+      {
+        "searchfrom": "Step Over (F10 or legacy Shift+F8)",
+        "replaceto":  "Prozedurschritt (F10)"
+      },
+      {
+        "searchfrom": "Step Into (F11 or legacy F8)",
+        "replaceto":  "Einzelschritt (F11)"
+      },
+      {
+        "searchfrom": "Step Out (Shift+F11 or legacy Ctrl+Shift+F8)",
+        "replaceto":  "Prozedur abschließen (Shift+F11)"
+      },
+      {
+        "searchfrom": "Run the code at the cursor position / Preview the form (F6)",
+        "replaceto":  "Bei Cursorposition starten (F6)"
+      },
+      {
+        "searchfrom": "Choose a build configuration",
+        "replaceto":  "Kompilierkonfiguration auswählen"
+      },
+      {
+        "searchfrom": "Restart the compiler",
+        "replaceto":  "Neu starten"
+      },
+      {
+        "searchfrom": "Clean (deregister &amp; delete build)",
+        "replaceto":  "Aufräumen (deregistrieren &amp; Kompilat löschen)"
+      },
+      {
+        "searchfrom": "Build",
+        "replaceto":  "Starten, vollständige Kompilierung"
+      },
+      {
+        "searchfrom": ">Copy to clipboard<",
+        "replaceto":  ">In die Zwischenablage Kopieren<"
+      },
+      {
+        "searchfrom": ">tB Services: UNAVAILABLE<",
+        "replaceto":  ">tB Services: Nicht erreichbar<"
+      },
+      {
+        "searchfrom": ">tB Licence: NOT READY<",
+        "replaceto":  ">tB Lizenz: Nicht fertig<"
+      },
+      {
+        "searchfrom": "Support us: buy us a coffee!",
+        "replaceto":  "Unterstütze uns: mit einem Kaffee!"
+      },
+      {
+        "searchfrom": "twinBASIC Discord Server (for chat, help & support)",
+        "replaceto":  "twinBASIC Discord server (Chat, Hilfe & Support)"
+      },
+      {
+        "searchfrom": "twinBASIC Twitter Feed",
+        "replaceto":  "twinBASIC Twitter Feed"
+      },
+      {
+        "searchfrom": "twinBASIC GitHub Repository (for help & support)",
+        "replaceto":  "twinBASIC GitHub Repository (Hilfe & Support)"
+      },
+      {
+        "searchfrom": "twinBASIC Discord Server (for chat, help & support)",
+        "replaceto":  "twinBASIC Discord Server (Chat, Hilfe & Support)"
+      },
+      {
+        "searchfrom": "Live Memory & Resources Usage (Debugger)",
+        "replaceto":  "Live Memory & Resources Usage (Debugger)"
+      },
+      {
+        "searchfrom": "Line / Column position",
+        "replaceto":  "Position Zeile / Spalte"
+      },
+      {
+        "searchfrom": "Ln&nbsp;<div id='lineNum'>0</div>, Col&nbsp;<div id='columnNum'>0",
+        "replaceto":  "Ln&nbsp;<div id='lineNum'>0</div>, Sp&nbsp;<div id='columnNum'>0"
+      }
+    ]
+  },
+  {
+    "filepath": "/ide/main.js",
+    "filetext": [
+      {
+        "searchfrom": "name: \"CopyPath\"",
+        "replaceto":  "name: \"Pfad Kopieren\""
+      },
+      {
+        "searchfrom": "View As JSON",
+        "replaceto":  "Als JSON Anzeigen"
+      },
+      {
+        "searchfrom": "name: \"Rename\"",
+        "replaceto":  "name: \"Umbenennen\""
+      },
+      {
+        "searchfrom": "name: \"Export...\"",
+        "replaceto": "name: \"Exportieren...\""
+      },
+      {
+        "searchfrom": "WARNING: This will overwrite any existing files!",
+        "replaceto":  "WARNUNG: Alle existierenden Dateien werden überschrieben!"
+      },
+      {
+        "searchfrom": "name: \"Delete Permanently\"",
+        "replaceto": "name: \"Dauerhaft Löschen\""
+      },
+      {
+        "searchfrom": "Are you sure you want to delete the following files?",
+        "replaceto":  "Sind sie Sicher dass sie die Dateien löschen wollen?"
+      },
+      {
+        "searchfrom": "You will not be able to undo this operation.",
+        "replaceto":  "Diese Aktion kann nicht Rückgängig gemacht werden."
+      },
+      {
+        "searchfrom": "caption: \"Delete Both\"",
+        "replaceto":  "caption: \"Beides Löschen\""
+      },
+      {
+        "searchfrom": "caption: \"Delete \"",
+        "replaceto":  "caption: \"Löschen \""
+      },
+      {
+        "searchfrom": "Are you sure you want to delete the selected items?",
+        "replaceto":  "Sind Sie sicher dass die ausgewählten Items löschen wollen?"
+      },
+      {
+        "searchfrom": "Are you sure you want to delete",
+        "replaceto": "Sind sie sicher dass Sie Löschen wollen"
+      },
+      {
+        "searchfrom": "DAP EVENT: ",
+        "replaceto":  "DAP Ereignis: "
+      },
+      {
+        "searchfrom": "DAP REVERSE-REQUEST: ",
+        "replaceto":  "DAP Rückanfrage: "
+      },
+      {
+        "searchfrom": "DAP: bad notification received, no [type] field",
+        "replaceto": "DAP: schlechte Benachrichtigung erhalten， kein [type]-feld"
+      },
+      {
+        "searchfrom": "fs-notification-error: ",
+        "replaceto":  "fs-Benachrichtigungsfehler: "
+      },
+      {
+        "searchfrom": "fs-notification: ",
+        "replaceto":  "fs-Benachrichtigung: "
+      },
+      {
+        "searchfrom": "internal error; unable to read file data",
+        "replaceto":  "Interner Fehler; Datei konnte nicht gelesen werden"
+      },
+      {
+        "searchfrom": "internal error; unable to load sample project",
+        "replaceto":  "Interner Fehler; Beispielprojekt konnte nicht geladen werden"
+      },
+      {
+        "searchfrom": "LSP REQUEST: ",
+        "replaceto":  "LSP Anfrage: "
+      },
+      {
+        "searchfrom": "LSP EVENT: ",
+        "replaceto":  "LSP Ereignis: "
+      },
+      {
+        "searchfrom": "need to massage workspace edits here...",
+        "replaceto":  "need to massage workspace edits here..."
+      },
+      {
+        "searchfrom": "internal error; unable to load built-in package ",
+        "replaceto":  "Interner Fehler; Paket konnte nicht geladen werden"
+      },
+      {
+        "searchfrom": "root-notification: ",
+        "replaceto":  "root-Benachrichtigung: "
+      },
+      {
+        "searchfrom": "Backend compiler seems to be busy.  Check there isn't a modal dialog box open behind the IDE window.",
+        "replaceto":  "后端编译器似乎繁忙。  检查IDE窗口背后的对话框是否打开。"
+      },
+      {
+        "searchfrom": "Backend compiler seems to be busy.  Check there isn't a modal dialog box open behind the IDE window.",
+        "replaceto": "后端编译器似乎繁忙。  检查IDE窗口背后的对话框是否打开。"
+      },
+      {
+        "searchfrom": "Cannot rename the project: the new name entered is invalid.",
+        "replaceto": "无法重命名项目: 输入的新名称无效。"
+      },
+      {
+        "searchfrom": "Cannot rename: permission denied.",
+        "replaceto": "无法重命名: 权限被拒绝。"
+      },
+      {
+        "searchfrom": "Cannot rename: the new name entered is invalid.",
+        "replaceto": "无法重命名: 输入的新名称无效。"
+      },
+      {
+        "searchfrom": "Cannot create: the new name entered is invalid.",
+        "replaceto": "无法创建: 输入的新名称无效。"
+      },
+      {
+        "searchfrom": "bad clipboard data",
+        "replaceto": "无法从剪贴板中读取数据"
+      },
+      {
+        "searchfrom": "msgBox(\"postMessage: \"",
+        "replaceto": "msgBox(\"来自 postMessage: \""
+      },
+      {
+        "searchfrom": "WARNING: you didn't save your changes to the Settings file!",
+        "replaceto": "警告: 您没有保存设置文件中的更改!"
+      },
+      {
+        "searchfrom": "ERROR: bad JSON encountered when parsing config data",
+        "replaceto": "错误: 解析配置数据时遇到错误的JSON"
+      },
+      {
+        "searchfrom": "Unable to switch form design mode: this document is not part of a form",
+        "replaceto": "无法切换设计模式: 此文档不属于表单"
+      },
+      {
+        "searchfrom": "Load Picture failed: ",
+        "replaceto": "加载图片失败: "
+      },
+      {
+        "searchfrom": "ERROR: unable to read clipboard contents: ",
+        "replaceto": "错误: 无法读取剪贴板内容: "
+      },
+      {
+        "searchfrom": "ERROR: bad JSON encountered when parsing tbform",
+        "replaceto": "错误: 解析tbform时遇到错误的JSON"
+      },
+      {
+        "searchfrom": "Saved project meta state to file.",
+        "replaceto": "保存项目元数据到文件。"
+      },
+      {
+        "searchfrom": "This project has not yet been saved.  Save now?",
+        "replaceto": "此项目尚未保存。  现在保存吗？"
+      },
+      {
+        "searchfrom": "Failed to save the project.  Check the project file path and adjust if necessary.",
+        "replaceto": "保存项目失败。  如果需要，检查项目文件路径并调整。"
+      },
+      {
+        "searchfrom": "ERROR: exportProject failed.  Error code ",
+        "replaceto": "错误：exportProject失败。  错误代码 "
+      },
+      {
+        "searchfrom": "ERROR: exportFile failed.  Error code ",
+        "replaceto": "错误：exportFile失败。  错误代码 "
+      },
+      {
+        "searchfrom": "ERROR: LoadProject failed.  Error code ",
+        "replaceto": "错误：LoadProject失败。  错误代码 "
+      },
+      {
+        "searchfrom": "ERROR: LoadProject from folder failed.  Check folder is valid.",
+        "replaceto": "错误：从文件夹加载项目失败。  检查文件夹是否有效。"
+      },
+      {
+        "searchfrom": "SAVE PROJECT FAILED.",
+        "replaceto": "保存项目失败。"
+      },
+      {
+        "searchfrom": "Sorry, this menu option has not been implemented yet",
+        "replaceto": "抱歉，此菜单选项尚未实现"
+      },
+      {
+        "searchfrom": "Select folder of the existing twinBASIC project...",
+        "replaceto": "选择现有twinBASIC项目文件夹..."
+      },
+      {
+        "searchfrom": "ERROR: A windowless UserControl cannot contain windowed child controls",
+        "replaceto": "错误：无窗口用户控件不能包含窗口的子控件"
+      },
+      {
+        "searchfrom": "= \"ADMIN\";",
+        "replaceto": "= \"管理员身份\";"
+      },
+      {
+        "searchfrom": "Couldn't save changes.  Discard them?",
+        "replaceto": "无法保存更改。  丢弃它们？"
+      },
+      {
+        "searchfrom": "Enter search string (primitive plain text search only):",
+        "replaceto": "输入搜索字符串(仅限纯文本搜索):"
+      },
+      {
+        "searchfrom": "Search inside referenced packages",
+        "replaceto": "搜索内部引用的包"
+      },
+      {
+        "searchfrom": "Match whole word only",
+        "replaceto": "仅匹配整个单词"
+      },
+      {
+        "searchfrom": "Search In Project",
+        "replaceto": "在项目内搜索"
+      },
+      {
+        "searchfrom": "Configuration: Inherits From",
+        "replaceto": "配置: 继承自"
+      },
+      {
+        "searchfrom": "Compilation: Target",
+        "replaceto": "编译: 目标"
+      },
+      {
+        "searchfrom": "Compilation: Auto Restart Compiler On Crash",
+        "replaceto": "编译: 自动重启编译器在崩溃"
+      },
+      {
+        "searchfrom": "Debugger: Option Explicit On",
+        "replaceto": "调试器: 强制显式(Option Explicit On)"
+      },
+      {
+        "searchfrom": "Debugger: Stacked Breakpoints",
+        "replaceto": "调试器: 堆叠断点"
+      },
+      {
+        "searchfrom": "Debugger: Force Full Refresh On Set Variable",
+        "replaceto": "调试器: 强制刷新变量"
+      },
+      {
+        "searchfrom": "Debugger: Prefer Early Bound Interfaces",
+        "replaceto": "调试器: 优先使用早期绑定接口"
+      },
+      {
+        "searchfrom": "Debugger: Sort Locals Alphabetically",
+        "replaceto": "调试器: 按字母顺序排序局部变量"
+      },
+      {
+        "searchfrom": "Debugger: Sort UDTs Alphabetically",
+        "replaceto": "调试器: 按字母顺序排序用户定义类型"
+      },
+      {
+        "searchfrom": "Debugger: Sort Fields Alphabetically",
+        "replaceto": "调试器: 按字母顺序排序字段"
+      },
+      {
+        "searchfrom": "Debugger: Show UserDefinedType Padding",
+        "replaceto": "调试器: 显示用户定义类型填充"
+      },
+      {
+        "searchfrom": "Debugger: Show Hex Values",
+        "replaceto": "调试器: 显示十六进制值"
+      },
+      {
+        "searchfrom": "Debugger: Show Hidden Members",
+        "replaceto": "调试器: 显示隐藏成员"
+      },
+      {
+        "searchfrom": "Debugger: Show Object Pointer Values",
+        "replaceto": "调试器: 显示对象指针值"
+      },
+      {
+        "searchfrom": "Debugger: Console Log Time Taken",
+        "replaceto": "调试器: 控制台日志时间消耗"
+      },
+      {
+        "searchfrom": "Intellisense: Show Hidden Members",
+        "replaceto": "智能感知: 显示隐藏成员"
+      },
+      {
+        "searchfrom": "Intellisense: Show Event Interfaces",
+        "replaceto": "智能感知: 显示事件接口"
+      },
+      {
+        "searchfrom": "Intellisense: Show Default Inherited Interfaces",
+        "replaceto": "智能感知: 显示默认继承的接口"
+      },
+      {
+        "searchfrom": "Intellisense: Hide Leading Underscore Elements",
+        "replaceto": "智能感知: 隐藏前导下划线元素"
+      },
+      {
+        "searchfrom": "IDE: Compiler Network Port Number",
+        "replaceto": "IDE: 编译器网络端口号"
+      },
+      {
+        "searchfrom": "IDE: FileSystem Network Port Number",
+        "replaceto": "IDE: 文件系统网络端口号"
+      },
+      {
+        "searchfrom": "IDE: Debugger Network Port Number",
+        "replaceto": "IDE: 调试器网络端口号"
+      },
+      {
+        "searchfrom": "IDE: LanguageServer Network Port Number",
+        "replaceto": "IDE: 语言服务器网络端口号"
+      },
+      {
+        "searchfrom": "Compilation: Disabled",
+        "replaceto": "编译: 禁用"
+      },
+      {
+        "searchfrom": "The name of a configuration that this configuration inherits from.  Any unset properties in this configuration file will be inherited from the base configuration file named here.",
+        "replaceto": "此配置继承自的配置名称。此配置文件中的任何未设置属性将从此基配置文件继承。"
+      },
+      {
+        "searchfrom": "The target architecture that the compiler generates code for.",
+        "replaceto": "编译器生成代码的目标体系结构。"
+      },
+      {
+        "searchfrom": "If YES, the compiler will be started automatically if a crash occurs.",
+        "replaceto": "如果是，编译器将在崩溃时自动启动。"
+      },
+      {
+        "searchfrom": "This option affects code entered into the Debug Console",
+        "replaceto": "此选项影响调试控制台中输入的代码"
+      },
+      {
+        "searchfrom": "If YES, the debugger will return to a breakpoint if you execute code in the debugger that triggers a deeper breakpoint",
+        "replaceto": "如果是，调试器将返回到断点，如果在调试器中执行代码，该代码会触发更深的断点"
+      },
+      {
+        "searchfrom": "If YES, the debugger will refresh all variables and watch expressions when you change a variable value from inside the debugger",
+        "replaceto": "如果是，调试器将在更改变量值时刷新所有变量和监视表达式"
+      },
+      {
+        "searchfrom": "If YES, the debugger will switch and bind to vtable interfaces when a dispinterface is marked as dual",
+        "replaceto": "如果是，调试器将在标记为双接口的 dispinterface 上切换和绑定到 vtable 接口"
+      },
+      {
+        "searchfrom": "If YES, the debugger will sort local variables alphabetically in the Variables panel.  If NO, they will appear in the order they are declared",
+        "replaceto": "如果是，调试器将按字母顺序对本地变量进行排序。如果否，它们将按声明的顺序出现。"
+      },
+      {
+        "searchfrom": "If YES, the debugger will sort UDT members alphabetically in the Variables panel.  If NO, they will appear in the order they are declared",
+        "replaceto": "如果是，调试器将按字母顺序对用户定义类型成员进行排序。如果否，它们将按声明的顺序出现。"
+      },
+      {
+        "searchfrom": "If YES, the debugger will sort class field members alphabetically in the Variables panel.  If NO, they will appear in the order they are declared.",
+        "replaceto": "如果是，调试器将按字母顺序对类字段成员进行排序。如果否，它们将按声明的顺序出现。"
+      },
+      {
+        "searchfrom": "If YES, the debugger will show any padding members that the compiler has added to UDTs.  Only applicable when [Debugger: Sort Fields Alphabetically] is NO",
+        "replaceto": "如果是，调试器将显示编译器为 UDT 添加的任何填充成员。仅当 [调试器: 按字母顺序排序字段] 为 NO 时才适用。"
+      },
+      {
+        "searchfrom": "If YES, the debugger will show non-decimal numeric values in hexadecimal form",
+        "replaceto": "如果是，调试器将在十六进制形式中显示非十进制数值"
+      },
+      {
+        "searchfrom": "If YES, the debugger will hide members that are marked as hidden or non-browsable",
+        "replaceto": "如果是，调试器将隐藏标记为隐藏或不可浏览的成员"
+      },
+      {
+        "searchfrom": "If YES, the debugger will show the raw value of object pointers (i.e. the raw memory location where the object is stored)",
+        "replaceto": "如果是，调试器将显示对象指针的原始值（即对象存储的原始内存位置）"
+      },
+      {
+        "searchfrom": "if YES, the debugger will report the time taken to execute the line of code immediately beneath the result",
+        "replaceto": "如果是，调试器将在结果下方的行代码执行所需的时间"
+      },
+      {
+        "searchfrom": "If YES, intellisense will show members that are marked as hidden or non-browsable",
+        "replaceto": "如果是，智能感知将显示标记为隐藏或不可浏览的成员"
+      },
+      {
+        "searchfrom": "If YES, intellisense will show interfaces that are determined to be event source interfaces",
+        "replaceto": "如果是，智能感知将显示确定为事件源接口的接口"
+      },
+      {
+        "searchfrom": "If YES, intellisense will show interfaces that are determined to be default interfaces of classes",
+        "replaceto": "如果是，智能感知将显示确定为类默认接口的接口"
+      },
+      {
+        "searchfrom": "If YES, intellisense will hide interfaces and members that have names that start with an underscore",
+        "replaceto": "如果是，智能感知将隐藏以下划线开头的接口和成员"
+      },
+      {
+        "searchfrom": "Use 0 to indicate that a random available port number be used",
+        "replaceto": "如果为0，则使用随机可用端口号"
+      },
+      {
+        "searchfrom": "Use 0 to indicate that a random available port number be used",
+        "replaceto": "如果为0，则使用随机可用端口号"
+      },
+      {
+        "searchfrom": "Use 0 to indicate that a random available port number be used",
+        "replaceto": "如果为0，则使用随机可用端口号"
+      },
+      {
+        "searchfrom": "Use 0 to indicate that a random available port number be used",
+        "replaceto": "如果为0，则使用随机可用端口号"
+      },
+      {
+        "searchfrom": "when set to YES, the compiler will not be invoked.  Use this as a last resort to open project files without invoking compilation of the project, for instance if there is a significant compiler bug preventing the project from opening.",
+        "replaceto": "如果设置为YES，则不会调用编译器。使用此作为最后的手段打开项目文件，例如，如果存在阻止项目打开的显著编译器错误。"
+      },
+      {
+        "searchfrom": "Use of legacy DefType statements is strongly discouraged",
+        "replaceto": "不建议使用旧的DefType语句"
+      },
+      {
+        "searchfrom": "This variable has been auto-declared by the compiler due to Option Explicit being OFF",
+        "replaceto": "由于Option Explicit为OFF，编译器自动声明了此变量"
+      },
+      {
+        "searchfrom": "Datatype has not been explicitly declared so will default to Variant",
+        "replaceto": "未显式声明数据类型，将默认为Variant"
+      },
+      {
+        "searchfrom": "[Exit Sub/Function] inside a Property-Get procedure is only supported for backwards compatibility.  Use [Exit Property] instead.",
+        "replaceto": "[Exit Property] 仅用于向后兼容。请使用 [Exit Property] 代替。"
+      },
+      {
+        "searchfrom": "#Warning directive was encountered",
+        "replaceto": "#警告指令已被发现"
+      },
+      {
+        "searchfrom": "Record length is ignored in binary mode",
+        "replaceto": "二进制模式下，记录长度被忽略"
+      },
+      {
+        "searchfrom": "Mismatched datatype hint",
+        "replaceto": "数据类型提示不匹配"
+      },
+      {
+        "searchfrom": "Suspicious call",
+        "replaceto": "可疑的调用"
+      },
+      {
+        "searchfrom": "Member is unimplemented ",
+        "replaceto": "成员未实现"
+      },
+      {
+        "searchfrom": "Duplicate DLL declaration detected",
+        "replaceto": "检测到重复的DLL声明"
+      },
+      {
+        "searchfrom": "Use of legacy date/time property-let assignments are strongly discouraged",
+        "replaceto": "不建议使用旧的日期/时间属性-Let赋值"
+      },
+      {
+        "searchfrom": "Possible misuse of hexadecimal literal notation",
+        "replaceto": "可能的十六进制字面量使用错误"
+      },
+      {
+        "searchfrom": "It is strongly recommended to specify an [ InterfaceId() ] attribute for this class",
+        "replaceto": "强烈建议为此类指定 [ InterfaceId() ] 属性"
+      },
+      {
+        "searchfrom": "The inline ByVal attribute is ignored on User Defined Types",
+        "replaceto": "User Defined Types 上的ByVal属性被忽略"
+      },
+      {
+        "searchfrom": "Use of legacy DLL {LEGACY.DLL} has been redirected to {MODERN.DLL}",
+        "replaceto": "已将旧的DLL {LEGACY.DLL} 重定向到 {MODERN.DLL}"
+      },
+      {
+        "searchfrom": "Implicit creation of variable via ReDim",
+        "replaceto": "ReDim 隐式创建变量"
+      },
+      {
+        "searchfrom": "\"Inherited from [",
+        "replaceto": "\"继承自 ["
+      },
+      {
+        "searchfrom": "(enter text to filter)",
+        "replaceto": "(输入文本进行过滤...)"
+      },
+      {
+        "searchfrom": "Project: Name",
+        "replaceto": "项目: 名称"
+      },
+      {
+        "searchfrom": "Project: Description",
+        "replaceto": "项目: 描述"
+      },
+      {
+        "searchfrom": "Project: Application Title",
+        "replaceto": "项目: 应用程序标题"
+      },
+      {
+        "searchfrom": "Project: Application HelpFile",
+        "replaceto": "项目: 应用程序帮助文件"
+      },
+      {
+        "searchfrom": "Project: Startup Object",
+        "replaceto": "项目: 启动对象"
+      },
+      {
+        "searchfrom": "Library References",
+        "replaceto": "库引用"
+      },
+      {
+        "searchfrom": "Compiler Warnings",
+        "replaceto": "编译警告"
+      },
+      {
+        "searchfrom": "Project: GUID",
+        "replaceto": "项目: GUID"
+      },
+      {
+        "searchfrom": "Project: Use Project ID for the type library ID",
+        "replaceto": "项目: 使用项目ID作为类型库ID"
+      },
+      {
+        "searchfrom": "Project: Build Output Path",
+        "replaceto": "项目: 编译输出路径"
+      },
+      {
+        "searchfrom": "Project: Build Type",
+        "replaceto": "项目: 编译类型"
+      },
+      {
+        "searchfrom": "Project: Licence Type",
+        "replaceto": "项目: 许可类型"
+      },
+      {
+        "searchfrom": "Project: Package Visibility",
+        "replaceto": "项目: 包可见性"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (MAJOR)",
+        "replaceto": "项目: 版本信息(主版本)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (MINOR)",
+        "replaceto": "项目: 版本信息(次版本)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (BUILD)",
+        "replaceto": "项目: 版本信息(编译版本)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (REVISION)",
+        "replaceto": "项目: 版本信息(修订版本)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (PRODUCT NAME)",
+        "replaceto": "项目: 版本信息(产品名称)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (COMPANY NAME)",
+        "replaceto": "项目: 版本信息(公司名称)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (FILE DESCRIPTION)",
+        "replaceto": "项目: 版本信息(文件描述)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (LEGAL COPYRIGHT)",
+        "replaceto": "项目: 版本信息(法律版权)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (LEGAL TRADEMARKS)",
+        "replaceto": "项目: 版本信息(商标)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (COMMENTS)",
+        "replaceto": "项目: 版本信息(注释)"
+      },
+      {
+        "searchfrom": "Project: VersionInfo (AUTO INCREMENT)",
+        "replaceto": "项目: 版本信息(自动递增)"
+      },
+      {
+        "searchfrom": "Project: Register DLLs to HKEY_LOCAL_MACHINE",
+        "replaceto": "项目: 注册DLL到HKEY_LOCAL_MACHINE"
+      },
+      {
+        "searchfrom": "Project: Register DLL after build",
+        "replaceto": "项目: 编译后注册DLL"
+      },
+      {
+        "searchfrom": "Project: COM Initialization",
+        "replaceto": "项目: COM初始化"
+      },
+      {
+        "searchfrom": "Project: Is Console Application",
+        "replaceto": "项目: 控制台应用程序"
+      },
+      {
+        "searchfrom": "Project: Native Subsystem (ADVANCED)",
+        "replaceto": "项目: 本地子系统(高级)"
+      },
+      {
+        "searchfrom": "Project: Override Entry Point (ADVANCED)",
+        "replaceto": "项目: 重写入口点(高级)"
+      },
+      {
+        "searchfrom": "Project: Runtime Binding Of DLL Declares (ADVANCED)",
+        "replaceto": "项目: DLL声明的运行时绑定(高级)"
+      },
+      {
+        "searchfrom": "Project: Conditional Compilation Arguments",
+        "replaceto": "项目: 条件编译参数"
+      },
+      {
+        "searchfrom": "Project: Option Explicit On",
+        "replaceto": "项目: 显式指定(高级)"
+      },
+      {
+        "searchfrom": "Project: Auto Prettify Source Code",
+        "replaceto": "项目: 自动美化源代码"
+      },
+      {
+        "searchfrom": "Project: CodeLens - Show Run Procedure",
+        "replaceto": "项目: 显示运行过程"
+      },
+      {
+        "searchfrom": "Runtime: Use Unicode Standard Library",
+        "replaceto": "运行时: 使用Unicode标准库"
+      },
+      {
+        "searchfrom": "Compilation: Include Procedure Name Symbols In Built Executables",
+        "replaceto": "编译: 在内建可执行文件中包含过程名称符号"
+      },
+      {
+        "searchfrom": "Compiler: Symbol Table Max Size Hash",
+        "replaceto": "编译: 符号表最大大小哈希"
+      },
+      {
+        "searchfrom": "Compiler: Symbol Table Max Size Raw",
+        "replaceto": "编译: 符号表最大大小原始"
+      },
+      {
+        "searchfrom": "Compiler: Symbol Table Max Size Lookup",
+        "replaceto": "编译: 符号表最大大小查找"
+      },
+      {
+        "searchfrom": "Compiler: Symbol Table Data Type Lookup",
+        "replaceto": "编译: 符号表数据类型查找"
+      },
+      {
+        "searchfrom": "Compiler: Sanitize Booleans",
+        "replaceto": "编译: 布尔值消毒"
+      },
+      {
+        "searchfrom": "Optimizer: Constant Function Folding",
+        "replaceto": "优化: 常量函数折叠"
+      },
+      {
+        "searchfrom": "Project: Large Address Aware",
+        "replaceto": "项目: 大地址感知"
+      },
+      {
+        "searchfrom": "Project: Terminal-Server Aware",
+        "replaceto": "项目: 终端服务器感知"
+      },
+      {
+        "searchfrom": "Project: Data-Execution-Prevention Aware",
+        "replaceto": "项目: 数据执行防护感知"
+      },
+      {
+        "searchfrom": "Project: Export Path",
+        "replaceto": "项目: 导出路径"
+      },
+      {
+        "searchfrom": "Project: Export After Save",
+        "replaceto": "项目: 保存后导出"
+      },
+      {
+        "searchfrom": "Project: Export Verbose",
+        "replaceto": "项目: 导出详细"
+      },
+      {
+        "searchfrom": "Project: Force Dpi Awareness At Startup",
+        "replaceto": "项目: 强制DPI感知启动"
+      },
+      {
+        "searchfrom": "Debugger: Runtime Command Line Arguments",
+        "replaceto": "调试器: 运行时命令行参数"
+      },
+      {
+        "searchfrom": "Debugger: Immediate Memory Invalidation",
+        "replaceto": "调试器: 即时内存无效"
+      },
+      {
+        "searchfrom": "Project: Build Stack Reserve Size",
+        "replaceto": "项目: 构建堆栈预留大小"
+      },
+      {
+        "searchfrom": "This is the namespace symbol used to represent the project via code.  If a type library is generated, this is the type library name",
+        "replaceto": "这是用于表示项目的命名空间符号，如果生成了类型库，则为类型库名称"
+      },
+      {
+        "searchfrom": "If a type library is generated, this is the type library description.  You can include compiler variables here, such as ${Architecture}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}",
+        "replaceto": "如果生成了类型库，则为类型库描述。  您可以在这里包含编译器变量，例如${Architecture}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}"
+      },
+      {
+        "searchfrom": "This is used for the default title caption of MsgBox and InputBox, and also is the value returned from the App.Title property",
+        "replaceto": "这是用于MsgBox和InputBox的默认标题标题，并且也用于App.Title属性返回的值"
+      },
+      {
+        "searchfrom": "This is accesible at runtime via the App.HelpFile property, and is used in the Forms runtime help system (F1 / WhatsThis)",
+        "replaceto": "这是可在运行时通过App.HelpFile属性访问的，并且在表单运行时帮助系统(F1 / WhatsThis)中使用"
+      },
+      {
+        "searchfrom": "This is the form that will be shown at startup, or 'Sub Main'.  If not specified, 'Sub Main' is the default for EXEs, '(none)' is the default for DLLs.",
+        "replaceto": "这是在启动时显示的表单，或'Sub Main'。 如果未指定，则'Sub Main'是EXE的默认，'(none)'是DLL的默认。"
+      },
+      {
+        "searchfrom": "Select references that will be used during compilation of this project",
+        "replaceto": "选择将用于编译此项目的引用"
+      },
+      {
+        "searchfrom": "Define how the compiler is to treat warnings inside this project.  These settings can be overriden with Class/Module/procedure attributes: <pre>[ EnforceWarnings(TBxxxx) ]</pre><pre>[ EnforceErrors(TBxxxx) ]</pre><pre>[ IgnoreWarnings(TBxxxx) ]</pre>",
+        "replaceto": "定义编译器如何处理在此项目中内部的警告。 这些设置可以被覆盖类/模块/过程属性：<pre>[ EnforceWarnings(TBxxxx) ]</pre><pre>[ EnforceErrors(TBxxxx) ]</pre><pre>[ IgnoreWarnings(TBxxxx) ]</pre>"
+      },
+      {
+        "searchfrom": "A unique GUID that represents this project.",
+        "replaceto": "一个唯一的GUID，表示此项目。"
+      },
+      {
+        "searchfrom": "If YES, the compiler will use the project ID for the type library ID.  If NO, a unique type library ID will be generated during the build process.",
+        "replaceto": "如果是，编译器将使用项目ID作为类型库ID。 如果否，在生成过程中将生成一个唯一的类型库ID。"
+      },
+      {
+        "searchfrom": "Enter the full path to the output file that will be created by the compiler.  Available variables: ${SourcePath}, ${ProjectName}, ${ProjectID}, ${FileExtension}, ${Architecture}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}",
+        "replaceto": "输入编译器将创建的文件的完整路径。 可用变量：${SourcePath}, ${ProjectName}, ${ProjectID}, ${FileExtension}, ${Architecture}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}"
+      },
+      {
+        "searchfrom": "The output file type generated by the compiler.",
+        "replaceto": "编译器生成的文件类型。"
+      },
+      {
+        "searchfrom": "For packages pushed into the package database, this lets the user clearly see the licence of your package",
+        "replaceto": "对于推送到包数据库中的包，这允许用户清楚地看到您的包的许可证"
+      },
+      {
+        "searchfrom": "For packages pushed into the package database, this determines if the package is available to everyone (PUBLIC) or just the publisher (PRIVATE)",
+        "replaceto": "对于推送到包数据库中的包，这确定包是否对所有人可用(公共)或仅发布者可用(私有)"
+      },
+      {
+        "searchfrom": "The major version number associated with the build.",
+        "replaceto": "与构建关联的主版本号。"
+      },
+      {
+        "searchfrom": "The minor version number associated with the build.",
+        "replaceto": "与构建关联的次版本号。"
+      },
+      {
+        "searchfrom": "The build version number associated with the build.",
+        "replaceto": "与构建关联的构建版本号。"
+      },
+      {
+        "searchfrom": "The revision version number associated with the build.",
+        "replaceto": "与构建关联的修订版本号。"
+      },
+      {
+        "searchfrom": "The ProductName text that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的ProductName文本。"
+      },
+      {
+        "searchfrom": "The CompanyName text that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的CompanyName文本。"
+      },
+      {
+        "searchfrom": "The FileDescription text that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的文件Description文本。"
+      },
+      {
+        "searchfrom": "The LegalCopyright text that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的 LegalCopyright文本。"
+      },
+      {
+        "searchfrom": "The LegalTrademarks text that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的 LegalTrademarks文本。"
+      },
+      {
+        "searchfrom": "Comments that will be included in the generated VERSIONINFO resource for this file.",
+        "replaceto": "将在生成此文件版本信息资源时包含的注释。"
+      },
+      {
+        "searchfrom": "If you want the version number to be automatically increased by 1 after a successful build, choose the part of the build number to be increased here.  VB6 always uses the Revision field for the auto-increment field.",
+        "replaceto": "如果希望在成功生成后自动增加版本号，请在此处选择要增加的构建号部分。 VB6总是使用修订字段进行自动增量字段。"
+      },
+      {
+        "searchfrom": "If the build type is [ActiveX DLL] or [ActiveX Control], this flag affects the generated DllRegisterServer/DllUnregisterServer implementations, causing the DLL to be registered into the HKEY_LOCAL_MACHINE registry hive rather than the HKEY_CURRENT_USER.  VB6 DLLs register to the HKEY_LOCAL_MACHINE registry hive, but this requires elevated permissions.  With this option set to YES, you will usually need to open the IDE with the \"Run As Administrator\" option.",
+        "replaceto": "如果编译类型是[ActiveX DLL]或[ActiveX Control]，则此标志影响生成的DllRegisterServer/DllUnregisterServer实现，导致DLL被注册到HKEY_LOCAL_MACHINE注册表hive而不是HKEY_CURRENT_USER。 VB6 DLLs注册到HKEY_LOCAL_MACHINE注册表hive，但这需要提升权限。如果此选项设置为YES，通常需要打开IDE并选择“以管理员身份运行”选项。 "
+      },
+      {
+        "searchfrom": "If the build type is [ActiveX DLL] or [ActiveX Control], this flag being YES causes the generated DLL to be registered automatically by the IDE immediately after the build is complete.  Set to NO if you want to manually control registration of the generated DLL. ",
+        "replaceto": "如果编译类型是[ActiveX DLL]或[ActiveX Control]，则此标志设置为YES会导致生成的DLL在生成后立即自动注册IDE。如果要手动控制生成的DLL的注册，请将其设置为NO。"
+      },
+      {
+        "searchfrom": "Choose how COM/OLE will be initialized in built EXEs.  The default is OleInitialize, to match VB6.  This option has no effect on DLL builds.  This option allows you to override the threading model [ STA/MTA ]",
+        "replaceto": "选择如何在生成的EXE中初始化COM/OLE。默认值为OleInitialize，与VB6匹配。此选项对DLL构建没有影响。此选项允许您覆盖线程模型[ STA/MTA ]"
+      },
+      {
+        "searchfrom": "If YES, built executables will be marked as CONSOLE applications rather than GUI applications.",
+        "replaceto": "如果YES，生成的可执行文件将被标记为CONSOLE应用程序，而不是GUI应用程序。"
+      },
+      {
+        "searchfrom": "If YES, built compilations will be marked as NATIVE (IMAGE_SUBSYSTEM_NATIVE), suitable for kernel device drivers",
+        "replaceto": "如果YES，生成的编译将被标记为NATIVE（IMAGE_SUBSYSTEM_NATIVE），适用于内核设备驱动程序"
+      },
+      {
+        "searchfrom": "If you supply the name of a procedure here, it will be used as the entrypoint for the built executable.  By overriding this, you are responsible for all initialization of subsystems like COM/OLE.  This option is typically used only for native kernel mode builds.",
+        "replaceto": "如果提供过程名称，则将使用生成的可执行文件的入口点。通过覆盖此选项，您负责所有子系统的初始化，例如COM/OLE。此选项通常只用于本机内核模式构建。"
+      },
+      {
+        "searchfrom": "If YES, Declares inside your project will be resolved at runtime.  If NO, Declares inside your project will be added to the import address table (IAT) of your built executables.  NOTE: This setting does not affect DLL declares that are defined in type libraries, which are always added to the IAT.",
+        "replaceto": "如果YES，编译器将在运行时解析项目内部声明。如果NO，编译器将在生成的可执行文件中添加到导入地址表（IAT）中。注意：此设置不影响在类型库中定义的DLL声明，因为它们总是添加到IAT中。"
+      },
+      {
+        "searchfrom": "Enter a colon delimited list of name=value pairs used by the compiler during conditional compilation evaluation.  Values in the range -32768 to 32767 are allowed.  for example:   foo=42:bar=-42",
+        "replaceto": "在编译器进行条件编译评估时，请输入以冒号分隔的名称=值对列表。范围为-32768到32767的值是允许的。例如：foo=42:bar=-42"
+      },
+      {
+        "searchfrom": "This option takes effect if Option Explicit On/Off is not specified in the source file",
+        "replaceto": "如果在源文件中未指定Option Explicit On/Off，则此选项将生效"
+      },
+      {
+        "searchfrom": "When set to YES, the case of words will be automatically corrected as you type, and spacing will be corrected to normal VBE standards.",
+        "replaceto": "如果设置为YES，当您键入时，将自动纠正单词的大小写，并将间距纠正为VBE标准。"
+      },
+      {
+        "searchfrom": "When set to YES, \"▶   run {procedure name}\" will be shown in the CodeLens above no-argument procedures in standard modules",
+        "replaceto": "如果设置为YES，“▶   运行 {过程名称}”将在标准模块中显示在无参数过程的CodeLens上"
+      },
+      {
+        "searchfrom": "If YES, the compiler will use unicode versions of the Windows API calls whenever possible (e.g. MsgBox will call MessageBoxW rather than MessageBoxA)",
+        "replaceto": "如果设置为YES，编译器将尽可能使用Unicode版本的Windows API调用（例如，MsgBox将调用MessageBoxW而不是MessageBoxA）"
+      },
+      {
+        "searchfrom": "If YES, the compiler will include procedure name symbols in built EXEs and DLLs.  These symbols are used when enumerating the live callstack information.  When disabled, ErrorStackFrame interface will return \"{unknown}\" for symbols in built executables.  When enabled, this option minorly increases the size of built executables, but does not harm runtime performance.",
+        "replaceto": "如果设置为YES，编译器将在生成的EXE和DLL中包括过程名称符号。这些符号用于枚举实时调用堆栈信息。当禁用时，ErrorStackFrame接口将返回“{unknown}”对于在生成的可执行文件中定义的符号。当启用时，此选项会微小增加生成的可执行文件的大小，但不会影响运行时性能。"
+      },
+      {
+        "searchfrom": "increasing this value uses more memory, but for larger projects will increase compilation performance",
+        "replaceto": "增加此值使用更多内存，但对于较大的项目会提高编译性能。注意：编译器将警告您达到此限制时需要更改此值"
+      },
+      {
+        "searchfrom": "increasing this value uses more memory, but allows for compilation of larger projects.  NOTE: the compiler will warn you when you reach this limit and need to alter this value",
+        "replaceto": "增加此值使用更多内存，但允许较大的项目的编译。注意：编译器将警告您达到此限制时需要更改此值"
+      },
+      {
+        "searchfrom": "increasing this value uses more memory, but allows for compilation of larger projects.  NOTE: the compiler will warn you when you reach this limit and need to alter this value",
+        "replaceto": "增加此值使用更多内存，但允许较大的项目的编译。注意：编译器将警告您达到此限制时需要更改此值"
+      },
+      {
+        "searchfrom": "increasing this value uses more memory, but allows for compilation of larger projects.  NOTE: the compiler will warn you when you reach this limit and need to alter this value",
+        "replaceto": "增加此值使用更多内存，但允许较大的项目的编译。注意：编译器将警告您达到此限制时需要更改此值"
+      },
+      {
+        "searchfrom": "when set to YES, the compiler ensures Boolean values outputted from external sources contain absolute True[-1] or False[0] values.  This ensures other inappropriate values such as [1] don't get stuffed into a Boolean datatype.  Minor performance impact.",
+        "replaceto": "如果设置为YES，编译器确保从外部源输出的布尔值包含绝对True[-1]或False[0]值。这可以确保将不适当的值（例如[1]）打包到布尔数据类型中。小性能影响。"
+      },
+      {
+        "searchfrom": "(EXPERIMENTAL) when set to YES, the compiler will convert some function calls to constant literals during compilation, when the result is known to be fully determinstic at compile time.  Only function calls in the VBA standard library are affected by this setting, plus any standard module functions that you have explicitly marked with the attribute [ ConstantFoldable ].",
+        "replaceto": "(试验性)如果设置为YES，编译器将在编译时将一些函数调用转换为常量字面量，当结果已知且在编译时完全确定时。此设置仅影响VBA标准库中的函数调用，以及您已显式标记为[ ConstantFoldable ]的任何标准模块函数。"
+      },
+      {
+        "searchfrom": "If YES, 32-bit EXE builds of this project will have the LARGE ADDRESS AWARE flag set on them, allowing them to access upto 4GB of memory.  If NO, 32-bit EXE builds are limited to 2GB memory space.  Use with caution, as your code and any third party DLLs must all be compatible.",
+        "replaceto": "如果设置为YES，此项目的32位EXE构建将具有“大地址感知”标志，允许它们访问4GB内存。如果NO，32位EXE构建受限于2GB内存空间。使用时请谨慎，因为您的代码和任何第三方DLL必须兼容。"
+      },
+      {
+        "searchfrom": "If YES, built executables will be marked as TS-aware.  This flag affects some Windows API calls, such as Get­Windows­Directory, when running on a Terminal Server.",
+        "replaceto": "如果设置为YES，生成的可执行文件将被标记为TS-Aware。此标志影响一些Windows API调用，例如在Terminal Server上运行时Get-Windows-Directory，当运行时运行时Get-Windows-Directory"
+      },
+      {
+        "searchfrom": "If YES, built executables will be marked as DEP-aware.  On compatible hardware, this hardens your executables from attacks against code injection at runtime",
+        "replaceto": "如果设置为YES，生成的可执行文件将被标记为DEP-Aware。在兼容的硬件上，这将保护您的可执行文件免受运行时代码注入攻击的影响"
+      },
+      {
+        "searchfrom": "Enter a path that will be used for the `Export Project` command.  When set, this path will be used instead of being prompted each time the command is invoked.",
+        "replaceto": "输入将用于“导出项目”命令的路径。当设置时，将使用此路径而不是每次调用命令时都提示用户。"
+      },
+      {
+        "searchfrom": "WARNING: BE CAREFUL! The export folder will be EMPTIED before export to ensure that the export is clean.</b><br/><br/>Available variables: ${SourcePath}, ${ProjectName}, ${ProjectFileName}, ${ProjectID}, ${FileExtension}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}",
+        "replaceto": "警告：请谨慎！在导出之前，导出文件夹将被清除，以确保导出是干净的。<br/><br/>可用的变量：${SourcePath}, ${ProjectName}, ${ProjectFileName}, ${ProjectID}, ${FileExtension}, ${VersionMajor}, ${VersionMinor}, ${VersionBuild}, ${VersionRevision}"
+      },
+      {
+        "searchfrom": "When this option is set to YES, the `Export Project` will automatically run, using the provided Export Path setting, immediately after the twinproj file is saved to disk.</b>",
+        "replaceto": "当此选项设置为YES时，“导出项目”将自动运行，使用提供的导出路径设置，立即在保存twinproj文件到磁盘后。</b>"
+      },
+      {
+        "searchfrom": "When this option is set to YES, the `Export Project` will report every file operation (even when successful).</b>",
+        "replaceto": "当此选项设置为YES时，“导出项目”将报告每个文件操作（即使成功）。</b>"
+      },
+      {
+        "searchfrom": "Set this option to 无 to turn off DPI-awareness, or to control the DPI awareness of your application via a manifest manually.  Setting other values here causes the SetProcessDpiAwareness API to be used when available.",
+        "replaceto": "将此选项设置为无来关闭DPI感知，或者通过手动创建清单来控制应用程序的DPI感知。在这里设置其他值将导致使用SetProcessDpiAwareness API的可用性。"
+      },
+      {
+        "searchfrom": "text entered here will be available in runtime debug sessions via the VBA.Interaction.Command$ function",
+        "replaceto": "在这里输入的文本将在运行时调试会话中通过VBA.Interaction.Command$函数可用"
+      },
+      {
+        "searchfrom": "if YES, when live values such as Strings, Variants and Arrays are released, their original content is first overwritten with garbage data.",
+        "replaceto": "如果设置为YES，当释放诸如字符串、Variant和数组之类的实时值时，它们的原始内容首先被覆盖为垃圾数据。"
+      },
+      {
+        "searchfrom": "The OS often does not erase the content of memory until absoluately necessary (i.e. when the memory area is re-used).",
+        "replaceto": "操作系统通常不会在绝对必要时擦除内存的内容（即当内存区域被重新使用时）。"
+      },
+      {
+        "searchfrom": "This often leads to bugs in code that makes wrong assumptions about the lifetime of pointers.  ",
+        "replaceto": "这往往导致错误的假设，即指针的生存期。在大多数情况下，您可能可以通过使用过时的指针来绕过这些错误，但这会导致非常微妙的错误，只有偶尔才会出现。使用此功能来帮助检测代码中的这些错误。在调试时会有小的性能影响。"
+      },
+      {
+        "searchfrom": "In the majority of cases you might get away with using a stale pointer, but this leads to very subtle bugs that only show up occasionally.  Use this feature to aid in detecting such bugs in your code.  There is a small performance impact during debugging.",
+        "replaceto": "在大多数情况下，您可能可以通过使用过时的指针来绕过这些错误，但这会导致非常微妙的错误，只有偶尔才会出现。使用此功能来帮助检测代码中的这些错误。在调试时会有小的性能影响。"
+      },
+      {
+        "searchfrom": "Changing this value modifies the PE header of built executables.  Default value is 1MB.  If you experience procedures that crash at runtime with stack overflow errors, try increasing this value.",
+        "replaceto": "更改此值会修改生成的可执行文件的PE标头。默认值为1MB。如果您在运行时遇到堆栈溢出错误，请尝试增加此值。"
+      },
+      {
+        "searchfrom": "must be divisible by 4096",
+        "replaceto": "必须是4096的倍数"
+      },
+      {
+        "searchfrom": "VALIDATION FAILED: ",
+        "replaceto": "校验失败： "
+      },
+      {
+        "searchfrom": "Import from file...",
+        "replaceto": "从文件导入..."
+      },
+      {
+        "searchfrom": "Show the list of ENABLED libraries (references / packages) in this project",
+        "replaceto": "显示此项目中启用的库（引用/包）列表"
+      },
+      {
+        "searchfrom": "Enabled Libraries",
+        "replaceto": "已启用的库"
+      },
+      {
+        "searchfrom": "Show the list of AVAILABLE references on this machine",
+        "replaceto": "显示此计算机上可用的引用列表"
+      },
+      {
+        "searchfrom": "Available COM References",
+        "replaceto": "可用的COM引用"
+      },
+      {
+        "searchfrom": "Show the list of AVAILABLE TWINPACK packages",
+        "replaceto": "显示可用的TWINPACK包列表"
+      },
+      {
+        "searchfrom": "Available Packages",
+        "replaceto": "可用的包"
+      },
+      {
+        "searchfrom": "TIP: LOGIN to see any PRIVATE packages you've made",
+        "replaceto": "提示：登录以查看您创建的任何私有包"
+      },
+      {
+        "searchfrom": "Please wait...",
+        "replaceto": "请稍候..."
+      },
+      {
+        "searchfrom": "PLEASE NOTE: Changes to Settings do not take effect until you save the Settings document and restart the compiler.",
+        "replaceto": "请注意：当前修改需要在保存设置文档并重新启动编译器后生效。"
+      },
+      {
+        "searchfrom": "Rename (F2)",
+        "replaceto": "重命名(F2)"
+      },
+      {
+        "searchfrom": "Cut (CTRL+X)",
+        "replaceto": "剪切(CTRL+X)"
+      },
+      {
+        "searchfrom": "Copy (CTRL+C)",
+        "replaceto": "复制(CTRL+C)"
+      },
+      {
+        "searchfrom": "Paste Before",
+        "replaceto": "粘贴到前面"
+      },
+      {
+        "searchfrom": "Paste After",
+        "replaceto": "粘贴到后面"
+      },
+      {
+        "searchfrom": "Paste Into (CTRL+V)",
+        "replaceto": "粘贴到(CTRL+V)"
+      },
+      {
+        "searchfrom": "Move Up (CTRL+UP)",
+        "replaceto": "上移(CTRL+UP)"
+      },
+      {
+        "searchfrom": "Move Down (CTRL+DOWN)",
+        "replaceto": "下移(CTRL+DOWN)"
+      },
+      {
+        "searchfrom": "Move Left (CTRL+LEFT)",
+        "replaceto": "左移(CTRL+LEFT)"
+      },
+      {
+        "searchfrom": "Move Right (CTRL+RIGHT)",
+        "replaceto": "右移(CTRL+RIGHT)"
+      },
+      {
+        "searchfrom": "Toggle Checked (SPACE)",
+        "replaceto": "切换选中(SPACE)"
+      },
+      {
+        "searchfrom": "Toggle Enabled",
+        "replaceto": "切换启用"
+      },
+      {
+        "searchfrom": "Toggle Visible",
+        "replaceto": "切换可见"
+      },
+      {
+        "searchfrom": "Insert Before",
+        "replaceto": "插入到前面"
+      },
+      {
+        "searchfrom": "Insert After",
+        "replaceto": "插入到后面"
+      },
+      {
+        "searchfrom": "Insert Seperator Before",
+        "replaceto": "插入分隔符到前面"
+      },
+      {
+        "searchfrom": "Insert Seperator After",
+        "replaceto": "插入分隔符到后面"
+      },
+      {
+        "searchfrom": "Delete (DEL)",
+        "replaceto": "删除(DEL)"
+      },
+      {
+        "searchfrom": "Paste (same name, control array)",
+        "replaceto": "粘贴(同名, 控制数组)"
+      },
+      {
+        "searchfrom": "Duplicate (new name)",
+        "replaceto": "复制(新名)"
+      },
+      {
+        "searchfrom": "Duplicate (same name, control array)",
+        "replaceto": "复制(同名, 控制数组)"
+      },
+      {
+        "searchfrom": "Bring to front",
+        "replaceto": "置于最前"
+      },
+      {
+        "searchfrom": "Send to back",
+        "replaceto": "置于最后"
+      },
+      {
+        "searchfrom": "Align to grid",
+        "replaceto": "对齐到网格"
+      },
+      {
+        "searchfrom": "Lock controls",
+        "replaceto": "锁定控件"
+      },
+      {
+        "searchfrom": "Unlock controls",
+        "replaceto": "解锁控件"
+      },
+      {
+        "searchfrom": "ActiveX Properties...",
+        "replaceto": "ActiveX 属性..."
+      },
+      {
+        "searchfrom": "+ menu",
+        "replaceto": "+ 菜单"
+      },
+      {
+        "searchfrom": "Lock all controls",
+        "replaceto": "锁定所有控件"
+      },
+      {
+        "searchfrom": "Unlock all controls",
+        "replaceto": "解锁所有控件"
+      },
+      {
+        "searchfrom": "View Code",
+        "replaceto": "查看代码"
+      },
+      {
+        "searchfrom": "\"Select All\"",
+        "replaceto": "\"全选\""
+      },
+      {
+        "searchfrom": "Last Position",
+        "replaceto": "上次位置"
+      },
+      {
+        "searchfrom": "Go To Definition",
+        "replaceto": "转到定义"
+      },
+      {
+        "searchfrom": "Toggle Bookmark",
+        "replaceto": "切换书签"
+      },
+      {
+        "searchfrom": "Next Bookmark",
+        "replaceto": "下一个书签"
+      },
+      {
+        "searchfrom": "Previous Bookmark",
+        "replaceto": "上一个书签"
+      },
+      {
+        "searchfrom": "Clear All Bookmarks (Document)",
+        "replaceto": "清除所有书签(文档)"
+      },
+      {
+        "searchfrom": "Clear All Bookmarks (Project)",
+        "replaceto": "清除所有书签(项目)"
+      },
+      {
+        "searchfrom": "Find in page...",
+        "replaceto": "在页面中查找..."
+      },
+      {
+        "searchfrom": "Find and replace in page...",
+        "replaceto": "在页面中查找和替换..."
+      },
+      {
+        "searchfrom": "Bad command line syntax.",
+        "replaceto": "错误的命令行语法。"
+      },
+      {
+        "searchfrom": "You must first save the project.  Save now?",
+        "replaceto": "您必须首先保存项目。 现在保存？"
+      },
+      {
+        "searchfrom": "twinBASIC IDE Options",
+        "replaceto": "twinBASIC IDE 选项"
+      },
+      {
+        "searchfrom": "Change Licence...",
+        "replaceto": "更改许可..."
+      },
+      {
+        "searchfrom": "Save Changes",
+        "replaceto": "保存更改"
+      },
+      {
+        "searchfrom": "caption: \"Close\"",
+        "replaceto": "caption: \"关闭\""
+      },
+      {
+        "searchfrom": "Tab Size",
+        "replaceto": "Tab 尺寸(空格数量)"
+      },
+      {
+        "searchfrom": "IDE Font Size",
+        "replaceto": "IDE 字体大小"
+      },
+      {
+        "searchfrom": "IDE Font",
+        "replaceto": "IDE 字体"
+      },
+      {
+        "searchfrom": "Code Editor Font Size",
+        "replaceto": "代码编辑器字体大小"
+      },
+      {
+        "searchfrom": "Code Editor Font",
+        "replaceto": "代码编辑器字体"
+      },
+      {
+        "searchfrom": "Colour Theme",
+        "replaceto": "配色主题"
+      },
+      {
+        "searchfrom": "F8 Key Behaviour",
+        "replaceto": "F8 键行为"
+      },
+      {
+        "searchfrom": "Show Code Editor Combo Selectors",
+        "replaceto": "显示代码编辑器组合选择器"
+      },
+      {
+        "searchfrom": "Monaco: Render Whitespace",
+        "replaceto": "Monaco: 渲染空白"
+      },
+      {
+        "searchfrom": "Monaco: Render Indent Guides",
+        "replaceto": "Monaco: 渲染缩进指示"
+      },
+      {
+        "searchfrom": "Monaco: Show Minimap",
+        "replaceto": "Monaco: 显示小地图"
+      },
+      {
+        "searchfrom": "Monaco: Show Folding Controls",
+        "replaceto": "Monaco: 显示折叠控件"
+      },
+      {
+        "searchfrom": "Compiler: Start In 64-bit Mode",
+        "replaceto": "编译器: 启动64位模式"
+      },
+      {
+        "searchfrom": "Restore Editors State When Opening Project",
+        "replaceto": "打开项目时恢复编辑器状态"
+      },
+      {
+        "searchfrom": "Focus The 'Recent' Tab On IDE Startup",
+        "replaceto": "IDE 启动时聚焦“最近的”标签"
+      },
+      {
+        "searchfrom": "File Explorer: Ask Before Delete Files",
+        "replaceto": "文件管理器: 删除文件前询问"
+      },
+      {
+        "searchfrom": "File Explorer: Single-Click Preview",
+        "replaceto": "文件管理器: 单击预览"
+      },
+      {
+        "searchfrom": "File Explorer: Double-Click Preview",
+        "replaceto": "文件管理器: 双击预览"
+      },
+      {
+        "searchfrom": "IDE: Data Execution Prevention (DEP)",
+        "replaceto": "IDE: 数据执行保护(DEP)"
+      },
+      {
+        "searchfrom": "IDE: Large Address Aware (LAA compiler)",
+        "replaceto": "IDE: 大地址感知(LAA编译器)"
+      },
+      {
+        "searchfrom": "IDE: Show Advanced Info On Hover",
+        "replaceto": "IDE: 悬停时显示高级信息"
+      },
+      {
+        "searchfrom": "IDE: Show Hidden Members",
+        "replaceto": "IDE: 显示隐藏成员"
+      },
+      {
+        "searchfrom": "IDE: Use new Handles/Implements syntax",
+        "replaceto": "IDE: 使用新的句柄/实现语法"
+      },
+      {
+        "searchfrom": "IDE: Sticky scrolling in code editor",
+        "replaceto": "IDE: 代码编辑器中的粘性滚动"
+      },
+      {
+        "searchfrom": "IDE: Bracket pair colorization in code editor",
+        "replaceto": "IDE: 代码编辑器中的括号对颜色化"
+      },
+      {
+        "searchfrom": "IDE: Less transparency for invisible controls",
+        "replaceto": "IDE: 对隐藏控件降低透明度"
+      },
+      {
+        "searchfrom": "IDE: Show toolbox icons only",
+        "replaceto": "IDE: 只显示工具箱图标"
+      },
+      {
+        "searchfrom": "IDE: Show memory and resource usage",
+        "replaceto": "IDE: 显示内存和资源使用情况"
+      },
+      {
+        "searchfrom": "Show IDE Inline Code Hints",
+        "replaceto": "显示IDE内联代码提示"
+      },
+      {
+        "searchfrom": "IDE: Intellisense mode",
+        "replaceto": "IDE: 代码提示模式"
+      },
+      {
+        "searchfrom": "PROJECT EXPLORER",
+        "replaceto": "项目管理器"
+      },
+      {
+        "searchfrom": "OPEN EDITORS",
+        "replaceto": "打开"
+      },
+      {
+        "searchfrom": "\"OUTLINE\"",
+        "replaceto": "\"大纲\""
+      },
+      {
+        "searchfrom": "\"CALL STACK\"",
+        "replaceto": "\"调用栈\""
+      },
+      {
+        "searchfrom": "\"VARIABLES\"",
+        "replaceto": "\"变量\""
+      },
+      {
+        "searchfrom": "\"WATCH\"",
+        "replaceto": "\"监视\""
+      },
+      {
+        "searchfrom": "\"PROBLEMS\"",
+        "replaceto": "\"问题\""
+      },
+      {
+        "searchfrom": "\"HISTORY\"",
+        "replaceto": "\"历史\""
+      },
+      {
+        "searchfrom": "\"PACKAGE PUBLISHING\"",
+        "replaceto": "\"打包发布\""
+      },
+      {
+        "searchfrom": "\"DEBUG CONSOLE\"",
+        "replaceto": "\"调试控制台\""
+      },
+      {
+        "searchfrom": "Expression to watch",
+        "replaceto": "添加表达式到监视..."
+      },
+      {
+        "searchfrom": "Unsaved.twinproj",
+        "replaceto": "未保存的项目"
+      },
+      {
+        "searchfrom": "\"Settings\"",
+        "replaceto": "\"项目设置\""
+      },
+      {
+        "searchfrom": "[\"settings\"]",
+        "replaceto": "[\"项目设置\"]"
+      },
+      {
+        "searchfrom": "Auto Scroll",
+        "replaceto": "自动滚动"
+      },
+      {
+        "searchfrom": "Clear Debug Console",
+        "replaceto": "清空控制台"
+      },
+      {
+        "searchfrom": "Invert Output Direction",
+        "replaceto": "反转输出方向"
+      },
+      {
+        "searchfrom": "Show Timestamps",
+        "replaceto": "显示时间戳"
+      },
+      {
+        "searchfrom": "Auto Scroll",
+        "replaceto": "自动滚动"
+      },
+      {
+        "searchfrom": "TOOLBOX",
+        "replaceto": "工具箱"
+      },
+      {
+        "searchfrom": "Package needed: WinNativeForms\\r\\n\\r\\nYou must first add a reference to the WinNativeForms package in this project.\\r\\n\\r\\nAfter clicking `Add WinNativeForms package`, the compiler will be restarted,\\r\\nready for you to add forms to this project.",
+        "replaceto": "需要的包: Win原生窗体\\r\\n\\r\\n您必须首先在此项目中添加“Win原生窗体包”的引用。\\r\\n\\r\\n点击`添加Win原生窗体包`后，编译器将会重启，\\r\\n准备好您添加到此项目中的窗体。"
+      },
+      {
+        "searchfrom": "Add WinNativeForms package",
+        "replaceto": "添加Win原生窗体包"
+      },
+      {
+        "searchfrom": "Components list coming soon!\\n\\nFor now, you must add ordinary COM references to the approriate ActiveX type library,\\nand the components will then appear here in the form designer automatically.",
+        "replaceto": "组件列表即将来临!\\n\\n目前，您必须添加普通的COM引用到适当的ActiveX类型库，\\n并在窗体设计器中将组件自动添加到这里。"
+      },
+      {
+        "searchfrom": "More components...",
+        "replaceto": "更多组件..."
+      },
+      {
+        "searchfrom": "GoTo COM References",
+        "replaceto": "转到COM引用"
+      },
+      {
+        "searchfrom": "Add a form to the project",
+        "replaceto": "添加一个窗体到项目"
+      },
+      {
+        "searchfrom": "caption: \"OK\",",
+        "replaceto": "caption: \"确定\","
+      },
+      {
+        "searchfrom": "PREVIEW",
+        "replaceto": "预览"
+      },
+      {
+        "searchfrom": "Show Grid",
+        "replaceto": "显示网格"
+      },
+      {
+        "searchfrom": "Align Controls To Grid",
+        "replaceto": "对齐控件到网格"
+      },
+      {
+        "searchfrom": "Show Outlines",
+        "replaceto": "显示虚线"
+      },
+      {
+        "searchfrom": "Grid Width",
+        "replaceto": "网格宽度"
+      },
+      {
+        "searchfrom": "Grid Height",
+        "replaceto": "网格高度"
+      },
+      {
+        "searchfrom": "Show Grid",
+        "replaceto": "显示网格"
+      },
+      {
+        "searchfrom": "Align Controls To Grid",
+        "replaceto": "对齐控件到网格"
+      },
+      {
+        "searchfrom": "PROPERTIES",
+        "replaceto": "属性"
+      },
+      {
+        "searchfrom": "EVENTS",
+        "replaceto":  "EREIGNISSE"
+      },
+      {
+        "searchfrom": "You've made changes to this project. Save now?",
+        "replaceto":  "Sie haben Änderungen in diesem Projekt, Möchten Sie diese jetzt speichern？"
+      },
+      {
+        "searchfrom": "caption: \"Save\"",
+        "replaceto": "caption: \"保存\""
+      },
+      {
+        "searchfrom": "caption: \"Discard Changes\"",
+        "replaceto":  "caption: \"Änderungen verwerfen\""
+      },
+      {
+        "searchfrom": "caption: \"Cancel\"",
+        "replaceto":  "caption: \"Abbrechen\""
+      },
+      {
+        "searchfrom": "caption: \"OPEN\"",
+        "replaceto":  "caption: \"Öffnen\""
+      },
+      {
+        "searchfrom": "caption: \"CANCEL\"",
+        "replaceto":  "caption: \"Abbrechen\""
+      },
+      {
+        "searchfrom": "caption: \"Save\"",
+        "replaceto":  "caption: \"Speichern\""
+      },
+      {
+        "searchfrom": "Do you want to save the changes you made to",
+        "replaceto":  "Möchten sie die Änderungen speichern："
+      },
+      {
+        "searchfrom": "Your changes will be lost if you don't save them.",
+        "replaceto":  "Ohne zu speichern gehen alle Änderungen verloren"
+      },
+      {
+        "searchfrom": "New / Open Project...",
+        "replaceto":  "Neu / Projekt Öffnen..."
+      },
+      {
+        "searchfrom": "BROWSE...",
+        "replaceto":  "Durchsuchen..."
+      },
+      {
+        "searchfrom": "innerText = \"WinNativeCommonCtls\"",
+        "replaceto":  "innerText = \"WinNativeCommonCtls\""
+      },
+      {
+        "searchfrom": "\"New\"",
+        "replaceto":  "\"Neu\""
+      },
+      {
+        "searchfrom": "\"Samples\"",
+        "replaceto":  "\"Beispiele\""
+      },
+      {
+        "searchfrom": "\"Recent\"",
+        "replaceto":  "\"Zuletzt\""
+      },
+      {
+        "searchfrom": "\"Project Name\"",
+        "replaceto":  "\"Projektname\""
+      },
+      {
+        "searchfrom": "Option Explicit:\\n\\nWhen this project option is ON, the compiler will always enter 'Option Explicit' mode when compiling code, regardless of whether you have specified 'Option Explicit' at the top of each module or class.\\n\\nIt is highly recommended to leave this project setting ON.",
+        "replaceto":  "Option Explicit:\\n\\nWhen this project option is ON, the compiler will always enter 'Option Explicit' mode when compiling code, regardless of whether you have specified 'Option Explicit' at the top of each module or class.\\n\\nIt is highly recommended to leave this project setting ON."
+      },
+      {
+        "searchfrom": "\"Option Explicit ON\"",
+        "replaceto":  "\"Option Explicit ON\""
+      },
+      {
+        "searchfrom": "(project scope)",
+        "replaceto":  "(Projektbereich)"
+      },
+      {
+        "searchfrom": "Visual Styles:\\n\\nWith this setting on, a manifest file will be embedded into your generated executables that causes Windows to theme the standard controls.\\n\\nIt is highly recommended to leave this option ON.",
+        "replaceto":  "Visual Styles:\\n\\nMit Dieser Einstellung wird eine Manifestdatei in die Ausführbare Exe integriert, die Windows veranlasst Alle Standard-Controls mit dem neuesten theme anzuzeigen.\\n\\nEs wird dringend empfohlen diese Option anzulassen."
+      },
+      {
+        "searchfrom": "\"Visual Styles\"",
+        "replaceto":  "\"Visual Styles\""
+      },
+      {
+        "searchfrom": "(via embedded manifest file)",
+        "replaceto":  "(mit eingebundener Manifestdatei)"
+      },
+      {
+        "searchfrom": "Register to HKEY_LOCAL_MACHINE:\\n\\nThe VB6 legacy compiler generates DLLs that register themselves to the HKEY_LOCAL_MACHINE registry hive.  Doing so requires elevated permissions on modern operating systems.\\n\\nTo avoid this, you can instead register your DLLs to the HKEY_CURRENT_USER registry hive which does not require elevated permissions.\\n\\nNOTE: if your ActiveX host (such as VB6, or Access, etc) runs elevated, then you must register your ActiveX class to HKEY_LOCAL_MACHINE, otherwise the host will not see it.",
+        "replaceto":  "注册到HKEY_LOCAL_MACHINE:\\n\\nVB6旧版编译器生成的DLL将自注册到HKEY_LOCAL_MACHINE注册表hive。 这需要在现代操作系统上具有提升权限。\\n\\n要避免此问题，您可以注册到HKEY_CURRENT_USER注册表hive，它不需要提升权限。\\n\\n注意：如果您的ActiveX主机（例如VB6，或Access等）运行于提升的权限下，则必须将您的ActiveX类注册到HKEY_LOCAL_MACHINE，否则主机将无法看到它。"
+      },
+      {
+        "searchfrom": "\"Register to HKEY_LOCAL_MACHINE\"",
+        "replaceto":  "\"Register to HKEY_LOCAL_MACHINE\""
+      },
+      {
+        "searchfrom": "(OFF will register to HKEY_CURRENT_USER)",
+        "replaceto":  "(OFF will register to HKEY_CURRENT_USER)"
+      },
+      {
+        "searchfrom": "Include Common Controls:\\n\\nWith this option ON, the WinNativeCommonCtls package will be referenced by your project.  This allows you to use controls such as TreeView, UpDown, MonthView and DTPicker.",
+        "replaceto":  "Include Common Controls:\\n\\nWith this option ON, the WinNativeCommonCtls package will be referenced by your project.  This allows you to use controls such as TreeView, UpDown, MonthView and DTPicker"
+      },
+      {
+        "searchfrom": "\"Include Common Controls\"",
+        "replaceto":  "\"Common Controls einbinden\""
+      },
+      {
+        "searchfrom": "(adds a reference to WinNativeCommonCtls)",
+        "replaceto":  "(Einen Verweise auf WinNativeCommonCtls hinzufügen)"
+      },
+      {
+        "searchfrom": "DPI Awareness:\\n\\nWith this option set to NONE, on high-DPI screens your application will be scaled by the operating system unless you manage the embedded manifest file yourself.\\n\\nWith this option set to SYSTEM_DPI_AWARE or PER_MONITOR_DPI_AWARE, your application will be considered DPI-aware and NOT scaled by the operating system.",
+        "replaceto":  "DPI Awareness:\\n\\nWith this option set to NONE, on high-DPI screens your application will be scaled by the operating system unless you manage the embedded manifest file yourself.\\n\\nWith this option set to SYSTEM_DPI_AWARE or PER_MONITOR_DPI_AWARE, your application will be considered DPI-aware and NOT scaled by the operating system."
+      },
+      {
+        "searchfrom": "\\n\\nNOTE: with DPI-awareness ON, if you write code that uses Win32 API graphics calls directly, you must account for high-DPI systems in your positional calculations.",
+        "replaceto":  "\\n\\nNOTE: with DPI-awareness ON, if you write code that uses Win32 API graphics calls directly, you must account for high-DPI systems in your positional calculations"
+      },
+      {
+        "searchfrom": "\"DPI Awareness\"",
+        "replaceto": "\"DPI Awareness\""
+      },
+      {
+        "searchfrom": "caption: \"CONTINUE\"",
+        "replaceto":  "caption: \"Fortfahren\""
+      },
+      {
+        "searchfrom": "twinBASIC New Project Options",
+        "replaceto":  "twinBASIC Optionen für Neues Projekt "
+      },
+      {
+        "searchfrom": "SYSTEM_DPI_AWARE",
+        "replaceto":  "SYSTEM_DPI_AWARE"
+      },
+      {
+        "searchfrom": "PER_MONITOR_DPI_AWARE",
+        "replaceto":  "PER_MONITOR_DPI_AWARE"
+      },
+      {
+        "searchfrom": "\"New Project...\"",
+        "replaceto":  "\"Neues Projekt...\""
+      },
+      {
+        "searchfrom": "\"Open Project...\"",
+        "replaceto":  "\"Projekt Öffnen...\""
+      },
+      {
+        "searchfrom": "\"Open Recent...\"",
+        "replaceto":  "\"Letztes Projekt Öffnen...\""
+      },
+      {
+        "searchfrom": "\"Close Project\"",
+        "replaceto":  "\"Projekt Schließen\""
+      },
+      {
+        "searchfrom": "\"Save Project\"",
+        "replaceto":  "\"Projekt Speichern\""
+      },
+      {
+        "searchfrom": "\"Save Project As...\"",
+        "replaceto":  "\"Projekt Speichern unter...\""
+      },
+      {
+        "searchfrom": "\"Export Project...\"",
+        "replaceto":  "\"Projekt Exportieren\""
+      },
+      {
+        "searchfrom": "\"Save Current Document\"",
+        "replaceto":  "\"Aktuelles Dokument Speichern\""
+      },
+      {
+        "searchfrom": "\"Save Current Document As...\"",
+        "replaceto":  "\"Aktuelles Dokument Speichern untern...\""
+      },
+      {
+        "searchfrom": "\"Make / Build...\"",
+        "replaceto":  "\"Kompilieren...\""
+      },
+      {
+        "searchfrom": "\"Clean...\"",
+        "replaceto":  "\"Säubern...\""
+      },
+      {
+        "searchfrom": "\"Exit...\"",
+        "replaceto":  "\"Beenden...\""
+      },
+      {
+        "searchfrom": "\"Undo\"",
+        "replaceto":  "\"Rückgängig\""
+      },
+      {
+        "searchfrom": "\"Redo\"",
+        "replaceto":  "\"Wiederherstellen\""
+      },
+      {
+        "searchfrom": "label: \"Cut\"",
+        "replaceto":  "label: \"Ausschneiden\""
+      },
+      {
+        "searchfrom": "name: \"Cut\"",
+        "replaceto":  "name: \"Ausschneiden\""
+      },
+      {
+        "searchfrom": "label: \"Copy\"",
+        "replaceto":  "label: \"Kopieren\""
+      },
+      {
+        "searchfrom": "name: \"Copy\"",
+        "replaceto":  "name: \"Kopieren\""
+      },
+      {
+        "searchfrom": "label: \"Paste\"",
+        "replaceto":  "label: \"Einfügen\""
+      },
+      {
+        "searchfrom": "name: \"Paste\"",
+        "replaceto":  "name: \"Einfügen\""
+      },
+      {
+        "searchfrom": "\"Paste As Comment\"",
+        "replaceto":  "\"Als Kommentar Einfügen\""
+      },
+      {
+        "searchfrom": "label: \"Delete\"",
+        "replaceto":  "label: \"删除\""
+      },
+      {
+        "searchfrom": "name: \"Delete\"",
+        "replaceto":  "name: \"Löschen\""
+      },
+      {
+        "searchfrom": "\"Select all\"",
+        "replaceto":  "\"Alles auswählen\""
+      },
+      {
+        "searchfrom": "\"Find...\"",
+        "replaceto":  "\"Suchen...\""
+      },
+      {
+        "searchfrom": "\"Replace...\"",
+        "replaceto":  "\"Ersetzen...\""
+      },
+      {
+        "searchfrom": "\"Find In Project...\"",
+        "replaceto":  "\"Im Projekt Suchen...\""
+      },
+      {
+        "searchfrom": "\"Indent...\"",
+        "replaceto": "\"Einzug vergrößern...\""
+      },
+      {
+        "searchfrom": "\"Outdent...\"",
+        "replaceto":  "\"Einzug verkleinern...\""
+      },
+      {
+        "searchfrom": "\"Code\"",
+        "replaceto":  "\"Code\""
+      },
+      {
+        "searchfrom": "\"Object\"",
+        "replaceto":  "\"Object\""
+      },
+      {
+        "searchfrom": "\"Definition\"",
+        "replaceto":  "\"Definition\""
+      },
+      {
+        "searchfrom": "\"Zoom\"",
+        "replaceto":  "\"Zoom\""
+      },
+      {
+        "searchfrom": "\"Add\"",
+        "replaceto":  "\"Hinzufügen\""
+      },
+      {
+        "searchfrom": "\"References...\"",
+        "replaceto":  "\"Verweise...\""
+      },
+      {
+        "searchfrom": "\"Project Properties...\"",
+        "replaceto":  "\"Projekt Eigenschaften...\""
+      },
+      {
+        "searchfrom": "\"Open Project Folder...\"",
+        "replaceto":  "\"Projektordner Öffnen...\""
+      },
+      {
+        "searchfrom": "\"Open Build Output Folder...\"",
+        "replaceto":  "\"Bin-Ausgabeordner Öffnen...\""
+      },
+      {
+        "searchfrom": "\"Align\"",
+        "replaceto":  "\"Anordnen\""
+      },
+      {
+        "searchfrom": "\"Make Same Size\"",
+        "replaceto":  "\"Auf gleiche Größe bringen\""
+      },
+      {
+        "searchfrom": "\"Size To Grid\"",
+        "replaceto":  "\"Auf Grid Vergrößern\""
+      },
+      {
+        "searchfrom": "\"Center In Form\"",
+        "replaceto":  "\"Im Formular zentrieren\""
+      },
+      {
+        "searchfrom": "\"Order\"",
+        "replaceto": "\"Reihenfolge\""
+      },
+      {
+        "searchfrom": "\"Lock Controls\"",
+        "replaceto":  "\"Controls Sperren\""
+      },
+      {
+        "searchfrom": "\"Step Into\"",
+        "replaceto":  "\"Schritt Info\""
+      },
+      {
+        "searchfrom": "\"Step Over\"",
+        "replaceto":  "\"Schritt Drüber\""
+      },
+      {
+        "searchfrom": "\"Add watch\"",
+        "replaceto":  "\"Überwachung hinzufügen\""
+      },
+      {
+        "searchfrom": "\"Clear All Breakpoints\"",
+        "replaceto":  "\"Alle Haltepunkte Löschen\""
+      },
+      {
+        "searchfrom": "\"Set Next Statement (Jump To Line)\"",
+        "replaceto":  "\"Nächstes Statement (Springe zu Zeile)\""
+      },
+      {
+        "searchfrom": "name: \"Start\"",
+        "replaceto":  "name: \"Starten\""
+      },
+      {
+        "searchfrom": "\"Start With Full Compile\"",
+        "replaceto":  "\"Kompilieren und Starten\""
+      },
+      {
+        "searchfrom": "\"Break\"",
+        "replaceto":  "\"Unterbrechen\""
+      },
+      {
+        "searchfrom": "name: \"End\"",
+        "replaceto":  "name: \"Beenden\""
+      },
+      {
+        "searchfrom": "name: \"Restart\"",
+        "replaceto":  "name: \"Neustarten\""
+      },
+      {
+        "searchfrom": "-{no addins loaded}",
+        "replaceto":  "-{Keine Addins geladen}"
+      },
+      {
+        "searchfrom": "\"Add Procedure...\"",
+        "replaceto":  "\"Prozedur hinzufügen...\""
+      },
+      {
+        "searchfrom": "\"Procedure Attributes...\"",
+        "replaceto":  "\"Prozedurattribute...\""
+      },
+      {
+        "searchfrom": "\"IDE Options...\"",
+        "replaceto":  "\"IDE Optionen...\""
+      },
+      {
+        "searchfrom": "\"Create ToolWindow\"",
+        "replaceto": "\"Werkzeugfenster Anzeigen\""
+      },
+      {
+        "searchfrom": "\"PROBLEMS panel\"",
+        "replaceto": "\"Panel für Probleme\""
+      },
+      {
+        "searchfrom": "\"OUTLINE panel\"",
+        "replaceto":  "\"Profilpanel\""
+      },
+      {
+        "searchfrom": "\"Stored Layouts\"",
+        "replaceto":  "\"Gespeicherte Layouts\""
+      },
+      {
+        "searchfrom": "\"Save Layout...\"",
+        "replaceto":  "\"Layout Speichern...\""
+      },
+      {
+        "searchfrom": "\"Reset Layout...\"",
+        "replaceto":  "\"Layout zurücksetzen...\""
+      },
+      {
+        "searchfrom": "\"This will reset the panel layout data.  Are you sure you want to do this?\\n\\nAfterwards, you will need to close and restart the IDE in order to see the changes.\"",
+        "replaceto":  "\"Das Panel Layout wird zurückgesetzt. Sind Sie sicher？\\n\\nDie Änderungen wreden erst nach einem Neustart sichtbar\""
+      },
+      {
+        "searchfrom": "Reset panel layout data",
+        "replaceto":  "Panel Layout zurücksetzen"
+      },
+      {
+        "searchfrom": "\"Theme\"",
+        "replaceto":  "\"Theme\""
+      },
+      {
+        "searchfrom": "name: \"Light\"",
+        "replaceto":  "name: \"Hell\""
+      },
+      {
+        "searchfrom": "name: \"Dark\"",
+        "replaceto":  "name: \"Dunkel\""
+      },
+      {
+        "searchfrom": "name: \"Toggle Full Screen Mode\"",
+        "replaceto":  "name: \"Vollbildmodus\""
+      },
+      {
+        "searchfrom": "\"About twinBASIC...\"",
+        "replaceto":  "\"Über twinBASIC...\""
+      },
+      {
+        "searchfrom": "\"Help & Support (Discord server)\"",
+        "replaceto":  "\"Hilfe & Support (Discord Server)\""
+      },
+      {
+        "searchfrom": "\"Help & Support (GitHub repository)\"",
+        "replaceto":  "\"Hilfe & Support (GitHub repository)\""
+      },
+      {
+        "searchfrom": "\"Twitter (News feed)\"",
+        "replaceto":  "\"Twitter (News feed)\""
+      },
+      {
+        "searchfrom": "\"Purchase a licence\"",
+        "replaceto":  "\"Eine Lizenz erwerben\""
+      },
+      {
+        "searchfrom": "\"Enter licence key\"",
+        "replaceto":  "\"Lizenzschlüssel eingeben\""
+      },
+      {
+        "searchfrom": "\"Buy us a coffee! (Ko-Fi)\"",
+        "replaceto":  "\"Wie wär's mit einem Kaffee! (Ko-Fi)\""
+      }
+    ]
+  },
+  {
+    "filepath": "/locale/en/ide.json",
+    "filetext": [
+      {
+        "searchfrom": "Welcome",
+        "replaceto":  "Willkommen"
+      },
+      {
+        "searchfrom": "BUILD CONFIGURATIONS",
+        "replaceto":  "EXECUTING"
+      },
+      {
+        "searchfrom": "PROJECT",
+        "replaceto":  "PROJEKT"
+      },
+      {
+        "searchfrom": "MAIN_THREAD",
+        "replaceto":  "MAIN_THREAD"
+      },
+      {
+        "searchfrom": "IDLE",
+        "replaceto":  "IDLE"
+      },
+      {
+        "searchfrom": "EXECUTING",
+        "replaceto":  "EXECUTING"
+      },
+      {
+        "searchfrom": "BREAKPOINT",
+        "replaceto":  "BREAKPOINT"
+      },
+      {
+        "searchfrom": "Settings",
+        "replaceto":  "Einstellungen"
+      }
+    ]
+  },
+  {
+    "filepath": "/ide/formDesigner.css",
+    "filetext": [
+      {
+        "searchfrom": "Zoom: ",
+        "replaceto":  "Zoom: "
+      }
+    ]
+  }
+]
